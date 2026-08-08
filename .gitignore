@@ -1,0 +1,6 @@
+# 输出目录
+papers/
+test_output/
+*.pyc
+__pycache__/
+.DS_Store
